@@ -1,6 +1,6 @@
 ### selezione
 - provare a risolvere gli esercizi o altrimenti descrivere in modo dettagliato una possibile soluzione argomentando benefici ed indicando eventuali criticità
-- si valuterà sia il numero di esercizi svolti che la qualità delle soluzioni proposte.
+- si valuterà sia il numero di esercizi svolti che la qualità delle soluzioni proposte
 - in caso di domande sottomettere una issue
 
 ### istruzioni
