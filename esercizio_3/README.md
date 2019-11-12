@@ -3,7 +3,7 @@ Creare una pipeline per l'esercizio 2 in modo che ci siano le fasi di creazione 
 
 Migliorativo:
 - aggiungere una fase di test (gli applicativi hanno un endpoint /actuator/health che risponde con un json {"status": "UP"} in caso sia tutto ok)
-- aggingere una fase per pubblicare l'immagine su registro pubblico
+- aggiungere una fase per pubblicare l'immagine su registro pubblico
 - se il branch nei quali si fa il commit e' diverso dal master pubblicare l'immagine con un tag DEV e metterla in produzione sul docker di DEV
 
 e' possibile usare qualsiasi sistema di CI (gitlab-ci, travis-ci, drone ecc.).
