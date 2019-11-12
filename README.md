@@ -4,7 +4,7 @@
 - in caso di domande sottomettere una issue
 
 ### istruzioni
-- copia il repository
+- fai un fork del repository
 - crea un branch per ogni esercizio
 - risolvi un esercizio nel suo branch (almeno un commit a esercizio)
 - crea una merge request/pull request per l'esercizio risolto
