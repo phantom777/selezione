@@ -9,4 +9,4 @@ Migliorativo:
 e' possibile usare qualsiasi sistema di CI (gitlab-ci, travis-ci, drone ecc.).
 
 
-Non ho avuto tempo di configurarre la pipeline, però qeusta puo' essere configurata attraverso le istruzioni presenti a questo sito:  https://jenkins.io/doc/book/pipeline/docker/  
+Non ho avuto tempo di configurare la pipeline, però qeusta puo' essere configurata attraverso le istruzioni presenti a questo sito:  https://jenkins.io/doc/book/pipeline/docker/  
